@@ -2,6 +2,8 @@
 
 **This desktop application is similar to the Java Certification Examination which is offered by Oracle** 
 
+*Happy to get some valuable suggestions regarding the project!*
+
 **Skills used: JavaFX 8, JDBC, RDBMS MySQL**
 
 1. To run the project you should have a java compiler, java path set in your system, jdbc drivers (driver class) and mysql
